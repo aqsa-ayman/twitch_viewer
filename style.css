@@ -1,0 +1,41 @@
+body {font-family: 'Short Stack', cursive !important;
+      background-image: url("http://pre10.deviantart.net/6a47/th/pre/f/2012/274/2/1/twitch_tv_minimalistic_background_by_vaughnwhiskey-d5giu64.png");
+      background-size:cover;}
+
+h1 {font-size:3.5em;
+    margin-top:1em;
+    margin-bottom:1.3em;
+    text-align:center;
+    color:white;
+    text-shadow:3px 3px black;
+     }
+
+.row div {padding:20px;
+          background-color:rgba(0,0,0,.5);                               color:white;
+          margin-bottom:1em;
+          border-radius:20px;
+          white-space:nowrap;
+          overflow:hidden;
+          }
+
+#noobs2ninjas {margin-bottom:4em;}
+
+h3 {font-size:2.1em;    
+    text-shadow:3px 3px black;
+    display:inline;
+    margin-left:15px;}
+
+p {font-size:1.5em;
+   margin-left:75px;}
+
+a {margin-left:75px;}
+
+img {width:60px;
+     border-radius:50%;}
+
+@media only screen and (max-width:667px) {
+  body {font-size:85%;}
+  
+  p,a {margin-left:55px;}
+  
+  img {width:40px;}
